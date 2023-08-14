@@ -1,9 +1,9 @@
 {
-	name: "ixgamerxl-bars",
-	displayName: "GSF's Bars",
-	author: "GSF",
-	description: "Another Roleplay utility that allows you to keep track of certain stats like Ammo, Health, etc.",
-	version: "1.1",
-	hidden: true,
-	minGameVersion: 126.2
+	"name": "ixgamerxl-bars",
+	"displayName": "GSF's Bars",
+	"author": "GSF",
+	"description": "Another Roleplay utility that allows you to keep track of certain stats like Ammo, Health, etc.",
+	"version": "1.1",
+	"hidden": true,
+	"minGameVersion": 136
 }
